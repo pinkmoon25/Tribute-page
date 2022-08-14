@@ -26,14 +26,12 @@ To get a working local copy up and running follow these simple steps
 - clone this project with the command:
 
 ```
-$ git clone git@github.com:PinkMoon25/AwesomeBooks-ES6.git
+$ git clone git@github.com:PinkMoon25/Tribute-page.git
 ```
-- Finally, run the next command in the terminal to see the web app in your local browser, or also, you can use Live Server in Visual Studio Code.
-```
-$ npm start
-```
+- Finally, run the  Live Server in Visual Studio Code to see the web app in your local browser.
+
 ### Usage
-For anyone that whats to learn Html & Css
+For anyone that wants to learn Html & Css
 
 
 ## Authors
